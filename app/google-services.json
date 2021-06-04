@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "183860239591",
+    "project_id": "newsigdan-72607",
+    "storage_bucket": "newsigdan-72607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183860239591:android:950ee60fcb5dba22769642",
+        "android_client_info": {
+          "package_name": "com.example.parksigdan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183860239591-kvcehl4qog27a1olcs5l8q9be08tgmq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parksigdan",
+            "certificate_hash": "664573ceac0c90a2b235697599df8daee3edafb2"
+          }
+        },
+        {
+          "client_id": "183860239591-js8bjnp2g2jnjqln7ajgoe2cflh8ldvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5p19SymSWt9JqCH_hfcfpvnAuNdG65OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183860239591-js8bjnp2g2jnjqln7ajgoe2cflh8ldvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
